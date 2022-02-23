@@ -2,10 +2,10 @@
     "name": "Delivery System Driver",
     "short_name": "DelSys Driver",
     "lang": "en-US",
-    "start_url": "/Driver/driverView.html",
-    "scope": "/vol2/Driver/",
+    "start_url": "/index.html",
+    "scope": "/",
     "display": "standalone",
-    "orientation": "portrait",
+    "orientation": "fullscreen",
     "background_color": "#863e76",
     "theme_color" : "#5d2851",
     "icons": [
