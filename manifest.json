@@ -4,7 +4,7 @@
     "lang": "en-US",
     "start_url": "/index.html",
     "id":"/index.html",
-    "scope": "/",
+    "scope": "/delsys-v2-driver/",
     "display": "standalone",
     "orientation": "fullscreen",
     "background_color": "#863e76",
