@@ -3,6 +3,7 @@
     "short_name": "DelSys Driver",
     "lang": "en-US",
     "start_url": "/index.html",
+    "id":"/index.html",
     "scope": "/",
     "display": "standalone",
     "orientation": "fullscreen",
